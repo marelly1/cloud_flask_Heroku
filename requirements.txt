@@ -1,6 +1,6 @@
-﻿flask
-numpy
-sklearn
+Flask==1.1.2
+Jinja2==2.11.2
+joblib==1.0.1
+numpy==1.19.4
+sklearn==0.0
 gunicorn
-joblib
-Jinja2
